@@ -45,7 +45,7 @@ of employees eligible to retire when we count them correctly.
 #
 ![Titles Retiring](https://github.com/jcsargis00/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.PNG)
 #
-With 25,916 Senior Engineers and 24,926 Senior Staff eligible for retirment, many key openings will be open
+With 25,916 Senior Engineers and 24,926 Senior Staff eligible for retirement, many key openings will be open
 in a short time window.
 #
 #### The Employees Eligible for the Mentorship Program
