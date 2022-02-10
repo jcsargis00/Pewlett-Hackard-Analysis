@@ -3,7 +3,8 @@
 ### Planning for the Silver Tsunami
 ### Background
 Pewlett Hackard is a very large corporation with a large group of employees nearing retirement age.  This problem has
-been called the "Silver Tsunami." 
+been called the "Silver Tsunami." Management is concerned there will be massive job openings in a very short time frame.
+Bobby has been tasked with putting together an analysis of the employee data to help answer questions about this potential issue.
 #
 Data has been collected into a series of csv files, but the individual files don't give enough information for the management team to know how many employees are close to retirement, and specifically, what areas do they work in and are they managers?
 The company would like Bobby to put the data together and report more detailed information to help the company
