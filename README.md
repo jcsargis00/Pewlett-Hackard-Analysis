@@ -8,7 +8,7 @@ Bobby has been tasked with putting together an analysis of the employee data to 
 #
 Data has been collected into a series of csv files, but the individual files don't give enough information for the management team to know how many employees are close to retirement, and specifically, what areas do they work in and are they managers?
 The company would like Bobby to put the data together and report more detailed information to help the company
-make informed decisions on a few areas:
+make informed decisions in a few areas:
 #
     * How many positions will be vacant soon
     * what positions will be vacant
