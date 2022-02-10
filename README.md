@@ -30,7 +30,8 @@ ready to start creating and running queries to answer key questions.
 #
 Data was imported from the following files: 
     - departments.csv, employees.csv, salaries.csv, dept_emp.csv, dept_manager.csv and titles.csv
-
+### Results
+#
 #### The Number of Retiring Employees by Title
 A query was written to find the number of retiring employees by title.  The first query returned every title, which produced multiple titles for employees who had changed jobs. There were 133,776 titles.  Further refinement to the query was needed to remove multiple titles for each employee to get a more accurate count.  As you can see in the snippet of the table here, Chirstian Koblic has two titles, and Sumant Peac has 3.
 #
@@ -58,6 +59,13 @@ A sample of the results is shown below.
 #
 ### Conclusion
 #
+    * 133,776 employees were in the Retiring Employees table.  This number showed employees multiple times if they held multiple titles while employed at Pewlett Hackard.  This was counting employees incorrectly for this purpose
+    * 72458 employees were found to be the correct number of employees soon to be eligible for employement by using the Distinct
+    clause in the queries to eliminate duplicate title entries for employees
+    * 25,916 of the retirement eligible employees were Senior Engineers, a key position at Pewlett Hackard and another 24,926 were
+    senior staff, also very important and senior jobs for the company.
+    * The Pewlett Hackard criteria for the mentorship program showed 1550 employees eligible.
+# 
 With 1550 employees eligible for the mentorship program, and 72,458 retirement-eligible employees in the company, there
 are not nearly enough mentors for the next generation of Pewlett Hackard employees.  The problem is especially critical for the roles of Senior Engineers and Senior Staff.  Pewlett Hackard could expand the mentorship program to employees that have been with the company for 5 or more years, instead of limiting the program based on age.  Additionally, jobs could be targeted not to fill and recruitment could be stepped up.
 
