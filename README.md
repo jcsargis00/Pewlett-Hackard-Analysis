@@ -37,7 +37,7 @@ A query was written to find the number of retiring employees by title.  The firs
 ![not unique titles](https://github.com/jcsargis00/Pewlett-Hackard-Analysis/blob/main/Data/retirementtables.PNG)
 #
 The first few entries of the Unique Titles table can be seen below, the number is reduced to 72458, the true number
-of employees elibible to retire when we count them correctly.
+of employees eligible to retire when we count them correctly.
 #
 ![unique titles](https://github.com/jcsargis00/Pewlett-Hackard-Analysis/blob/main/Data/unique_titles.PNG)
 #
