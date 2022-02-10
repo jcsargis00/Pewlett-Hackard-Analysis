@@ -59,11 +59,13 @@ A sample of the results is shown below.
 #
 ### Conclusion
 #
-    * 133,776 employees were in the Retiring Employees table.  This number showed employees multiple times if they held multiple titles while employed at Pewlett Hackard.  This was counting employees incorrectly for this purpose
-    * 72,458 employees were found to be the correct number of employees soon to be eligible for employement by using the Distinct
-    clause in the queries to eliminate duplicate title entries for employees
-    * 25,916 of the retirement eligible employees were Senior Engineers, a key position at Pewlett Hackard and another 24,926 were
-    senior staff, also very important and senior jobs for the company.
+    * 133,776 employees were in the Retiring Employees table.  This number showed employees multiple times 
+    if they held multiple titles while employed at Pewlett Hackard.  This was counting employees incorrectly 
+    for this purpose
+    * 72,458 employees were found to be the correct number of employees soon to be eligible for employement 
+    by using the Distinct clause in the queries to eliminate duplicate title entries for employees
+    * 25,916 of the retirement eligible employees were Senior Engineers, a key position at Pewlett Hackard 
+    and another 24,926 were senior staff, also very important and senior jobs for the company.
     * The Pewlett Hackard criteria for the mentorship program showed 1550 employees eligible.
 # 
 With 1550 employees eligible for the mentorship program, and 72,458 retirement-eligible employees in the company, there
