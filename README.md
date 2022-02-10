@@ -32,7 +32,7 @@ Data was imported from the following files:
     - departments.csv, employees.csv, salaries.csv, dept_emp.csv, dept_manager.csv and titles.csv
 
 #### The Number of Retiring Employees by Title
-A query was written to find the number of retiring employees by title.  The first query returned every title, which produced multiple titles for employees who had changed jobs. There were 133776 titles.  Further refinement to the query was needed to remove multiple titles for each employee to get a more accurate count.
+A query was written to find the number of retiring employees by title.  The first query returned every title, which produced multiple titles for employees who had changed jobs. There were 133,776 titles.  Further refinement to the query was needed to remove multiple titles for each employee to get a more accurate count.  As you can see in the snippet of the table here, Chirstian Koblic has two titles, and Sumant Peac has 3.
 #
 ![not unique titles](https://github.com/jcsargis00/Pewlett-Hackard-Analysis/blob/main/Data/retirementtables.PNG)
 #
