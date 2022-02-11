@@ -51,7 +51,7 @@ in a short time window.
 #
 #### The Employees Eligible for the Mentorship Program
 #
-There are 1550 employees eligible to be mentors (criteria: current employee, birthday in 1965).
+There are 1549 employees eligible to be mentors (criteria: current employee, birthday in 1965).
 #
 A sample of the results is shown below.
 #
@@ -68,6 +68,6 @@ A sample of the results is shown below.
     and another 24,926 were Senior Staff, also very important and senior jobs for the company.
     * The Pewlett Hackard criteria for the mentorship program showed 1550 employees eligible.
 # 
-With 1550 employees eligible for the mentorship program, and 72,458 retirement-eligible employees in the company, there
+With 1549 employees eligible for the mentorship program, and 72,458 retirement-eligible employees in the company, there
 are not nearly enough mentors for the next generation of Pewlett Hackard employees.  The problem is especially critical for the roles of Senior Engineers and Senior Staff.  Pewlett Hackard could expand the mentorship program to employees that have been with the company for 5 or more years, instead of limiting the program based on age.  Additionally, jobs could be targeted not to fill and recruitment could be stepped up.
 
