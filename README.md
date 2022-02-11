@@ -66,7 +66,7 @@ A sample of the results is shown below.
     by using the Distinct clause in the queries to eliminate duplicate title entries for employees
     * 25,916 of the retirement eligible employees were Senior Engineers, a key position at Pewlett Hackard 
     and another 24,926 were Senior Staff, also very important and senior jobs for the company.
-    * The Pewlett Hackard criteria for the mentorship program showed 1550 employees eligible.
+    * The Pewlett Hackard criteria for the mentorship program showed 1549 employees eligible.
 # 
 With 1549 employees eligible for the mentorship program, and 72,458 retirement-eligible employees in the company, there
 are not nearly enough mentors for the next generation of Pewlett Hackard employees.  The problem is especially critical for the roles of Senior Engineers and Senior Staff.  Pewlett Hackard could expand the mentorship program to employees that have been with the company for 5 or more years, instead of limiting the program based on age.  Additionally, jobs could be targeted not to fill and recruitment could be stepped up.
